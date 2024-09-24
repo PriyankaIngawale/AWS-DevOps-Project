@@ -1,4 +1,4 @@
 #!/bin/bash
 
-sudo apt-get update
-sudo apt-get install -y nginx
+Sudo yum update
+sudo amazon-linux-extras install -y nginx1.12 
